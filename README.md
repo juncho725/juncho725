@@ -42,7 +42,7 @@
 
 ## 📫 Contact
 - 📧 Email: **Jun.cho725@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/juncho725](linkedin.com/in/jun-cho-8b500a2aa)
+- 🔗 LinkedIn: [linkedin.com/in/juncho725](https://www.linkedin.com/in/jun-cho-8b500a2aa/)
 
 ---
 
