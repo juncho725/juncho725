@@ -13,10 +13,9 @@
 ---
 
 ## 🔹 Tech Stack
-- **Languages**: Python, SQL, R
+- **Languages**: Python, SQL
 - **AI/ML**: PyTorch, TensorFlow, Scikit-learn
-- **Data**: Pandas, NumPy, Power BI, Tableau
-- **Deployment**: Docker, AWS
+- **Data**: Pandas, NumPy, Tableau
 - **Tools**: GitHub, DBeaver, VS Code, Jupyter
 
 ---
