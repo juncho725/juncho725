@@ -1,4 +1,3 @@
-[github_readme_korean_employers.md](https://github.com/user-attachments/files/21543907/github_readme_korean_employers.md)
 # 👋 안녕하세요! 저는 조경준입니다.
 
 **AI Developer & Data Scientist**로서 컴퓨터 비전과 데이터 분석을 통해 실제 비즈니스 문제를 해결하는 솔루션을 만들어왔습니다. 🚀
@@ -42,8 +41,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: **Jun.cho729@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/juncho725](https://www.linkedin.com/in/juncho725)
+- 📧 Email: **Jun.cho725@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/juncho725](linkedin.com/in/jun-cho-8b500a2aa)
 
 ---
 
