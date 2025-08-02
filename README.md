@@ -1,100 +1,138 @@
 
 # 👋 안녕하세요! 저는 조경준입니다.
 
-**데이터로 실질적인 비즈니스 가치를 창출하는 AI Developer & Data Scientist**
+**비즈니스 문제를 데이터로 해결하는 Data Analyst & Business Intelligence Specialist**
 
-> *"복잡한 데이터 환경을 0에서 1로 구축하고, AI 기술로 현장 문제를 해결합니다"* 🚀
-
----
-
-## 🎯 핵심 역량 & 임팩트
-
-### 🏗️ **데이터 인프라 구축 전문가**
-- **0→1 시스템 구축**: 분석 불가능한 환경에서 **60만개 완전 데이터셋** 구축
-- **헬스케어 도메인**: 한국 대형 한방병원에서 **데이터 환경 처음부터 설계**
-- **보안 중심**: 의료 데이터 기밀성 준수하며 **KPI 자동화 리포팅** 시스템 구축
-
-### 🤖 **AI 기반 자동화 솔루션**
-- **Tesla 프로젝트**: 압출 금형 검수 시간 **100분 → 8분 (92% 단축)**
-- **컴퓨터 비전**: Faster R-CNN 기반 불량품 검출, **정확도 10배 향상**
-- **완전 자동화**: PyQt GUI로 **누구나 쉽게 사용** 가능한 시스템 개발
-
-### 📊 **비즈니스 중심 데이터 분석**
-- **ROI 실증**: 카페 운영 최적화로 **매출 140% 증가, 비용 15% 절감**
-- **통계적 검증**: A/B 테스트, Mixed-Effects Model을 통한 **과학적 의사결정**
-- **실무 중심**: Excel 기반 **누구나 활용 가능한** 리포팅 체계 구축
+> *"복잡한 데이터에서 실행 가능한 인사이트를 찾아 비즈니스 성과를 만들어냅니다"* 📊
 
 ---
 
-## 🛠️ 기술 스택
+## 🎯 데이터 분석 전문성 & 비즈니스 임팩트
 
-### **Core Technologies**
+### 📈 **비즈니스 데이터 분석 & 의사결정 지원**
+- **ROI 실증**: 데이터 기반 운영 최적화로 **매출 140% 증가, 비용 15% 절감**
+- **A/B 테스트**: Mixed-Effects Model로 **의료 서비스 개선 효과 통계적 검증**
+- **KPI 모니터링**: 연도별 핵심 지표 분석으로 **비즈니스 전략 수립** 지원
+
+### 🏗️ **데이터 인프라 & 파이프라인 구축**
+- **0→1 구축**: 분석 불가능한 환경에서 **60만개 완전 데이터셋** 구축
+- **자동화 시스템**: 140개 SQL 파일 분석으로 레거시 시스템 파악 후 **완전 자동화**
+- **보안 준수**: 의료 데이터 기밀성 고려한 **안전한 데이터 처리** 환경 설계
+
+### 🤖 **AI 활용 데이터 분석 & 자동화 솔루션**
+- **비정형 데이터 분석**: 컴퓨터 비전(Faster R-CNN)으로 **이미지 데이터에서 측정값 자동 추출**
+- **사용자 중심 GUI**: PyQt5 기반 **직관적 인터페이스**로 비기술진도 쉽게 사용 가능
+- **End-to-End 자동화**: 데이터 수집→분석→리포팅 **완전 자동화** (100분→8분, 92% 단축)
+
+---
+
+## 🛠️ 데이터 분석 기술 스택
+
+### **Core Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![GA4](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### **Specialized Skills**
-- **AI/ML**: Computer Vision (Faster R-CNN, YOLO), Statistical Analysis
-- **Data Engineering**: Large-scale Data Pipeline, MySQL Automation
-- **Business Intelligence**: KPI Dashboard, A/B Testing, Report Automation
-- **Domain Expertise**: Healthcare Data Security, Manufacturing Quality Control
+- **통계 분석**: pandas, numpy, scipy, statsmodels (T-test, F-test, 신뢰구간)
+- **데이터 처리**: 대용량 데이터 파이프라인, 복합 SQL 조인, 데이터 정제
+- **비즈니스 인텔리전스**: KPI 대시보드, 자동 리포팅, 코호트 분석
+- **웹 분석**: Google Analytics 4, 사용자 행동 분석, 퍼널 분석
+- **AI 활용 분석**: 컴퓨터 비전(PyTorch, OpenCV), 비정형 데이터 처리, GUI 개발
 
 ---
 
-## 🏆 주요 프로젝트
+## 📊 주요 데이터 분석 프로젝트
 
-### 📌 [Tesla 압출 금형 자동 검수 시스템](https://github.com/juncho725/extrusion-die-inspection)
+### 📌 [헬스케어 데이터 분석 & KPI 대시보드](https://github.com/juncho725/data-analysis-portfolio-kr)
 ```
-🎯 성과: 검수 시간 92% 단축 (100분 → 8분)
-🔧 기술: Faster R-CNN + PyQt5 + OpenCV
-💡 혁신: ±0.001mm 정밀도, 완전 자동화 GUI
-```
-
-### 📌 [헬스케어 데이터 파이프라인 구축](https://github.com/juncho725/data-analysis-portfolio-kr)
-```
-🎯 성과: 0→1 데이터 환경 구축, 60만개 데이터셋
-🔧 기술: SQL Complex Join + Python + 의료 워크플로우
-💡 혁신: 보안 준수하며 전사 KPI 자동화
+🎯 성과: 60만개 데이터 기반 전사 의사결정 체계 구축
+📊 분석: 연도별 KPI 비교, 고객 코호트 분석, 재구매율 통계 검증
+💡 인사이트: 환자 수 감소 vs 고객 질 개선 트렌드 발견
 ```
 
-### 📌 [비즈니스 운영 최적화](https://github.com/juncho725/data-analysis-portfolio)
+### 📌 [A/B 테스트: 분할처방 효과 분석](https://github.com/juncho725/data-analysis-portfolio)
 ```
-🎯 성과: 매출 140% 증가, 대기시간 70% 단축
-🔧 기술: 데이터 분석 + 운영 최적화 + Excel 자동화
-💡 혁신: 현장 중심 실무 솔루션
+🎯 성과: 의료 서비스 개선의 정량적 효과 측정
+📊 분석: Mixed-Effects Model, 통계적 유의성 검증
+💡 인사이트: 분할처방이 환자 만족도와 재구매율에 미치는 영향 분석
+```
+
+### 📌 [비정형 데이터 기반 품질 분석 자동화](https://github.com/juncho725/extrusion-die-inspection)
+```
+🎯 성과: 수작업 품질 검사를 데이터 기반 자동 분석으로 전환 (Tesla 프로젝트)
+📊 분석: 이미지 데이터에서 17개 측정점 자동 추출 및 통계 분석
+🤖 기술: 컴퓨터 비전(Faster R-CNN) + PyQt5 GUI + OpenCV 이미지 처리
+💡 혁신: 비기술진도 쉽게 사용할 수 있는 직관적 사용자 인터페이스 구현
+📈 임팩트: 검수 시간 92% 단축, 측정 정확도 10배 향상, 완전 자동화
 ```
 
 ---
 
-## 📊 개발 활동 통계
+## 📈 데이터 분석 방법론
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juncho725&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juncho725&layout=compact&theme=radical&hide_border=true)
+| 분석 영역 | 적용 기법 | 프로젝트 사례 | 비즈니스 임팩트 |
+|-----------|-----------|---------------|-----------------|
+| **📊 통계 분석** | T-test, F-test, 신뢰구간 | 연도별 KPI 비교 | 전략 수립 근거 제공 |
+| **🔍 A/B 테스트** | Mixed-Effects Model | 분할처방 효과 검증 | 서비스 개선 검증 |
+| **👥 코호트 분석** | 재구매율, 고객 생애주기 | 잠재 고객 재활성화 | 마케팅 ROI 개선 |
+| **⏱️ 시계열 분석** | 트렌드, 계절성 분석 | 매출 패턴 분석 | 운영 효율성 140% 향상 |
+| **🎯 세그멘테이션** | 고객 분류, 행동 패턴 | 환자 프로필 분석 | 맞춤형 서비스 전략 |
 
 </div>
 
 ---
 
-## 🌟 차별화 포인트
+## 🏆 데이터 분석가로서의 차별화 포인트
 
-### 💼 **실무 중심 접근**
-- **현장 경험**: 호주 카페 운영부터 한국 의료기관까지 다양한 도메인
-- **완성도**: 개념 증명이 아닌 **실제 운영 가능한 완성품** 개발
-- **사용자 중심**: 기술적 배경 없어도 **누구나 사용할 수 있는** UX 설계
+### 💼 **도메인 전문성 기반 분석**
+- **헬스케어**: 의료 데이터 보안과 환자 프라이버시 고려한 분석 설계
+- **제조업**: 품질 관리 데이터와 공정 최적화 분석 경험
+- **서비스업**: 고객 경험 데이터와 운영 효율성 분석 실무 경험
 
-### 🔒 **도메인 전문성**
-- **의료 데이터**: 기밀성과 보안을 고려한 시스템 설계
-- **제조업**: 품질 관리와 정밀 측정 요구사항 이해
-- **비즈니스**: ROI와 효율성을 고려한 솔루션 개발
+### 📊 **비즈니스 중심 인사이트 도출**
+- **실행 가능한 분석**: 분석 결과를 실제 비즈니스 액션으로 연결
+- **ROI 검증**: 데이터 기반 의사결정의 실제 성과 측정 및 보고
+- **스토리텔링**: 복잡한 분석 결과를 비기술진도 이해할 수 있게 전달
 
-### 🚀 **빠른 학습 & 적용**
-- **자기주도 학습**: Google 데이터 분석 자격증, AI 기술 독학
-- **문제 해결**: 140개 SQL 파일 분석으로 레거시 시스템 파악
-- **기술적 도전**: 새로운 도구와 프레임워크 빠른 습득
+### 🔧 **End-to-End 데이터 솔루션**
+- **데이터 수집**: 원천 시스템 분석부터 ETL 파이프라인 구축
+- **분석 & 모델링**: 통계적 검증부터 예측 모델링까지
+- **자동화**: 일회성 분석이 아닌 지속 가능한 시스템 구축
+
+---
+
+## 🎓 지속적인 학습 & 성장
+
+### **데이터 분석 역량 확장**
+- ✅ **Google Data Analytics Certificate** 이수
+- ✅ **GA4 (Google Analytics 4)** 웹 분석 실무 적용
+- ✅ **고급 통계 분석** (Mixed-Effects Model, 다변량 분석)
+- 🔄 **머신러닝 활용** 예측 모델링 확장 중
+
+### **비즈니스 도메인 확장**
+- 🏥 **헬스케어**: 의료 데이터 분석 및 KPI 관리
+- 🏭 **제조업**: 품질 관리 및 공정 최적화 데이터 분석
+- ☕ **서비스업**: 고객 경험 및 운영 효율성 분석
+- 📱 **디지털**: 웹 분석 및 사용자 행동 데이터 분석
+
+---
+
+## 🌟 실제 분석 성과 사례
+
+### 📊 **정량적 비즈니스 임팩트**
+- 💰 **매출 증대**: 데이터 기반 운영 최적화로 140% 매출 증가
+- ⏱️ **효율성 개선**: 자동화 시스템으로 업무 시간 93% 단축
+- 🎯 **정확도 향상**: 데이터 기반 품질 관리로 정밀도 10배 개선
+- 📈 **고객 만족**: 대기시간 70% 단축으로 고객 경험 개선
+
+### 🔍 **데이터 기반 발견 사례**
+- **환자 수 감소 vs 고객 질 개선**: 겉보기 악화 지표 뒤의 긍정적 트렌드 발견
+- **잠재 고객 데이터**: 미활용 데이터에서 새로운 마케팅 기회 발굴
+- **운영 최적화**: 시간대별 패턴 분석으로 인력 배치 최적화 포인트 도출
 
 ---
 
@@ -102,7 +140,7 @@
 
 <div align="center">
 
-**💡 데이터와 AI로 실질적인 가치를 만들어내는 것이 제 목표입니다 💡**
+**💡 데이터에서 인사이트를, 인사이트에서 비즈니스 가치를 만들어냅니다 💡**
 
 [![Email](https://img.shields.io/badge/Email-Jun.cho725@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jun.cho725@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jun-cho-8b500a2aa/)
@@ -113,8 +151,8 @@
 
 <div align="center">
 
-### *"From 0 to 1, Building Data-Driven Solutions That Matter"* 
+### *"From Data to Decisions, Creating Business Value Through Analytics"* 
 
-**현장의 문제를 이해하고, 기술로 해결하며, 누구나 사용할 수 있는 솔루션을 만듭니다.**
+**복잡한 비즈니스 문제를 데이터로 풀고, 실행 가능한 인사이트로 성과를 만들어냅니다.**
 
 </div>
