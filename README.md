@@ -52,7 +52,7 @@
 💡 인사이트: 환자 수 감소 vs 고객 질 개선 트렌드 발견
 ```
 
-### 📌 [A/B 테스트: 의료 서비스 효과 분석](https://github.com/juncho725/data-analysis-portfolio)
+### 📌 [A/B 테스트: 의료 서비스 효과 분석](https://github.com/juncho725/data-analysis-portfolio-kr)
 ```
 🎯 성과: 의료 서비스 개선의 정량적 효과 측정 (분할처방 vs 일괄처방)
 📊 분석: Mixed-Effects Model, 통계적 유의성 검증, 고객 만족도 분석
@@ -60,7 +60,7 @@
 🔧 도구: Python(statsmodels), 고급 통계 분석, 실험 설계
 ```
 
-### 📌 [압출 금형 품질 분석 자동화](https://github.com/juncho725/extrusion-die-inspection)
+### 📌 [압출 금형 품질 분석 자동화](https://github.com/juncho725/extrusion-die-inspection/README_KR)
 ```
 🎯 성과: 수작업 품질 검사를 데이터 기반 자동 분석으로 전환 (제조업 프로젝트)
 📊 분석: 이미지 데이터에서 17개 측정점 자동 추출 및 통계 분석
