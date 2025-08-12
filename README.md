@@ -60,7 +60,7 @@
 🔧 도구: Python(statsmodels), 고급 통계 분석, 실험 설계
 ```
 
-### 📌 [압출 금형 품질 분석 자동화](https://github.com/juncho725/extrusion-die-inspection/README_KR)
+### 📌 [압출 금형 품질 분석 자동화](https://github.com/juncho725/extrusion-die-inspection)
 ```
 🎯 성과: 수작업 품질 검사를 데이터 기반 자동 분석으로 전환 (제조업 프로젝트)
 📊 분석: 이미지 데이터에서 17개 측정점 자동 추출 및 통계 분석
