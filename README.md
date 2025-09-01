@@ -29,7 +29,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### **Advanced Specializations**
-- **실무 중심 통계**: Mixed-Effects Model, 교란변수 통제, 검정력 분석
+- **실무 중심 통계**: 교란변수 통제, 검정력 분석
 - **복합 시스템 분석**: 140개 SQL 파일 분석, 레거시 시스템 구조 파악
 - **정책 변화 대응**: 시기별 비즈니스 룰 변경을 반영한 동적 분류 시스템
 - **도메인 전문 분석**: 의료 데이터 보안, 업계 특수 워크플로우 이해
